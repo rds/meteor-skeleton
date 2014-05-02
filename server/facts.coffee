@@ -1,0 +1,2 @@
+Facts.setUserIdFilter (userId) ->
+  true

@@ -3,6 +3,17 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-standard-app-packages
 autopublish
+coffeescript
+standard-app-packages
 insecure
+iron-router
+stylus-latest
+blaze-meta
+just-i18n
+facts
+service-configuration
+accounts-google
+accounts-password
+bootstrap-3
+accounts-ui-bootstrap-3

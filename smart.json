@@ -1,3 +1,10 @@
 {
-  "packages": {}
+  "packages": {
+    "iron-router": {},
+    "stylus-latest": {},
+    "blaze-meta": {},
+    "just-i18n": {},
+    "bootstrap-3": {},
+    "accounts-ui-bootstrap-3": {}
+  }
 }

@@ -1,0 +1,50 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {},
+      "stylus-latest": {},
+      "blaze-meta": {},
+      "just-i18n": {},
+      "bootstrap-3": {},
+      "accounts-ui-bootstrap-3": {}
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "stylus-latest": {
+        "git": "https://github.com/sbking/meteor-stylus-latest.git",
+        "tag": "v0.44.0",
+        "commit": "1d63d3e42136cbedfa53fc1ebf56e017373f4ffe"
+      },
+      "blaze-meta": {
+        "git": "https://github.com/yasinuslu/blaze-meta.git",
+        "tag": "v0.1.2",
+        "commit": "25115f28f9a3950c5b31996ef9e177ea0ec5fc8c"
+      },
+      "just-i18n": {
+        "git": "https://github.com/subhog/meteor-just-i18n.git",
+        "tag": "v0.2.4",
+        "commit": "91decfcf5b3b5e67f202a67658350b862330bf3d"
+      },
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "accounts-ui-bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-accounts-ui-bootstrap-3.git",
+        "tag": "v0.3.0-1",
+        "commit": "93ffa5d0e325dc7026de89f6d90c178fa04bdd3a"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      }
+    }
+  }
+}
